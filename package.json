@@ -10,7 +10,18 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^1.1.2",
-    "zcatalyst-cli-plugin-react": "^0.0.4"
+    "zcatalyst-cli-plugin-react": "^0.0.4",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "date-fns": "^4.1.0",
+    "install": "^0.13.0",
+    "moment": "^2.30.1",
+    "npm": "^11.0.0",
+    "react-bootstrap": "^2.10.7",
+    "react-icons": "^5.4.0",
+    "react-router-dom": "^7.0.2",
+    "react-toastify": "^11.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
